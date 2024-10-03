@@ -3,6 +3,7 @@
 ### Ativar chave PRO ###
 
 Via CMD (Executar como Administrador)
+
 ```shell
 slmgr.vbs -ipk DNQKC-96BKR-RDB6H-K4R22-RVV26
 ```
@@ -16,13 +17,17 @@ Após, será reinicializado o sistema operacional e voltara como PRO, porem sem 
 Abra o CMD como administrador novamente e abra o powershell.:
 
 ficando assim:
+
 ![CMD / Powershell](https://i.imgur.com/UfXGaHG.jpeg)
 
 Execute o comando:
+
 ```shell
 irm https://get.activated.win | iex
 ```
+
 Vai abrir uma janela como na imagem abaixo:
+
 ![Ativador via powershell](https://i.imgur.com/6l1jP5B.jpeg)
  
  Digite 4.
