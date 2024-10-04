@@ -29,3 +29,11 @@ Todos os links abaixo futuramente será transportado para dentro deste git.
 [GPO - Permitir que usuarios adicionem computadores ao dominio](https://techexpert.tips/pt-br/windows-pt-br/gpo-permitir-que-usuarios-adicionem-computadores-ao-dominio/)
 
 [GPO - Configurar OneDrive](https://techexpert.tips/pt-br/windows-pt-br/gpo-configurar-onedrive/)
+
+[GPO - Exigir confirmação para exclusão de arquivos](https://techexpert.tips/pt-br/windows-pt-br/gpo-exigir-confirmacao-para-excluir-arquivos/)
+
+[GPO - Desativar som de inicialização do Windows](https://techexpert.tips/pt-br/windows-pt-br/gpo-desativar-o-som-da-inicializacao-do-windows/)
+
+[GPO - Configurar intervalo de atualização de GPO](https://techexpert.tips/pt-br/windows-pt-br/gpo-configurar-o-intervalo-de-atualizacao-da-politica/)
+
+
