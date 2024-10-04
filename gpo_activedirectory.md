@@ -9,3 +9,5 @@ Todos os links abaixo futuramente será transportado para dentro deste git.
 [GPO - Mapear unidade de rede](https://techexpert.tips/pt-br/windows-pt-br/politica-de-grupo-para-mapear-unidade-de-rede/)
 
 [GPO - Bloqueio de conta por tentativas incorretas](https://techexpert.tips/pt-br/windows-pt-br/gpo-bloqueio-da-conta-do-usuario-apos-3-tentativas-incorretas/)
+
+[GPO - Adicionar administrador local](https://techexpert.tips/pt-br/windows-pt-br/gpo-adicionar-administradores-locais/)
