@@ -36,4 +36,13 @@ Todos os links abaixo futuramente será transportado para dentro deste git.
 
 [GPO - Configurar intervalo de atualização de GPO](https://techexpert.tips/pt-br/windows-pt-br/gpo-configurar-o-intervalo-de-atualizacao-da-politica/)
 
+[GPO - Exigir autenticação para desbloqueio da estação](https://techexpert.tips/pt-br/windows-pt-br/gpo-exigir-autenticacao-do-controlador-de-dominio-para-desbloquear-estacoes-de-trabalho/)
+
+[GPO - Internet Explorer como padrão](https://techexpert.tips/pt-br/windows-pt-br/gpo-configurar-internet-explorer-como-o-navegador-padrao/)
+
+[GPO - Edge como padrão](https://techexpert.tips/pt-br/windows-pt-br/gpo-configurar-microsoft-edge-como-o-navegador-padrao/)
+
+[GPO - Firefox como padrão](https://techexpert.tips/pt-br/windows-pt-br/gpo-configurar-mozilla-firefox-como-o-navegador-padrao/)
+
+[]GPO - Chrome como padrão(https://techexpert.tips/pt-br/windows-pt-br/gpo-configurar-chrome-como-o-navegador-padrao/)
 
