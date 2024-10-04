@@ -11,3 +11,5 @@ Todos os links abaixo futuramente será transportado para dentro deste git.
 [GPO - Bloqueio de conta por tentativas incorretas](https://techexpert.tips/pt-br/windows-pt-br/gpo-bloqueio-da-conta-do-usuario-apos-3-tentativas-incorretas/)
 
 [GPO - Adicionar administrador local](https://techexpert.tips/pt-br/windows-pt-br/gpo-adicionar-administradores-locais/)
+
+[GPO - Instalar pacotes MSI](https://techexpert.tips/pt-br/windows-pt-br/gpo-instalacao-de-pacote-msi/)
