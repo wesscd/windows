@@ -17,3 +17,5 @@ Todos os links abaixo futuramente será transportado para dentro deste git.
 [GPO - Configurar papel de parede](https://techexpert.tips/pt-br/windows-pt-br/gpo-configurear-o-papel-de-parede/)
 
 [GPO - Crtl+alt+del antes do login](https://techexpert.tips/pt-br/windows-pt-br/gpo-pressione-ctrl-alt-del-antes-do-login/)
+
+[GPO - Limite de inatividade para bloqueio](https://techexpert.tips/pt-br/windows-pt-br/gpo-limite-de-inatividade-da-maquina-para-logon-interativo/)
