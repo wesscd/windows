@@ -15,3 +15,5 @@ Todos os links abaixo futuramente será transportado para dentro deste git.
 [GPO - Instalar pacotes MSI](https://techexpert.tips/pt-br/windows-pt-br/gpo-instalacao-de-pacote-msi/)
 
 [GPO - Configurar papel de parede](https://techexpert.tips/pt-br/windows-pt-br/gpo-configurear-o-papel-de-parede/)
+
+[GPO - Crtl+alt+del antes do login](https://techexpert.tips/pt-br/windows-pt-br/gpo-pressione-ctrl-alt-del-antes-do-login/)
