@@ -44,5 +44,9 @@ Todos os links abaixo futuramente será transportado para dentro deste git.
 
 [GPO - Firefox como padrão](https://techexpert.tips/pt-br/windows-pt-br/gpo-configurar-mozilla-firefox-como-o-navegador-padrao/)
 
-[]GPO - Chrome como padrão(https://techexpert.tips/pt-br/windows-pt-br/gpo-configurar-chrome-como-o-navegador-padrao/)
+[GPO - Chrome como padrão](https://techexpert.tips/pt-br/windows-pt-br/gpo-configurar-chrome-como-o-navegador-padrao/)
+
+[GPO - Desabilitar notificações de balão](https://techexpert.tips/pt-br/windows-pt-br/gpo-desligar-as-notificacoes-de-baloes/)
+
+
 
