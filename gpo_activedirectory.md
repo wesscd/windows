@@ -48,5 +48,7 @@ Todos os links abaixo futuramente será transportado para dentro deste git.
 
 [GPO - Desabilitar notificações de balão](https://techexpert.tips/pt-br/windows-pt-br/gpo-desligar-as-notificacoes-de-baloes/)
 
+[GPO - Habilitar restauração do sistema](https://techexpert.tips/pt-br/windows-pt-br/gpo-criacao-automatica-de-ponto-de-restauracao/)
+
 
 
