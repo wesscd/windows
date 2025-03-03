@@ -1,7 +1,7 @@
 # Script para adicionar informações OEM no Windows
 # Criado por César Marques
 
-$Manufacturer = "César Marques - Suporte em TI"
+$Manufacturer = "Cesar Marques - Suporte em TI"
 $Model = "Infraestrutura & Redes"
 $SupportURL = "https://discord.gg/uHPEANRv"
 $SupportHours = "Seg-Sex: 08h-18h"
